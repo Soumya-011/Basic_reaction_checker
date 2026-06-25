@@ -68,5 +68,726 @@
         "concentration": "concentrated",
         "temp": "warm",
         "main_product": "Sodium Hypophosphite (NaH2PO2)"
+    },
+    {
+        "reactant": "red phosphorus",
+        "reagent": "naoh",
+        "concentration": "concentrated",
+        "temp": "warm",
+        "main_product": "Sodium Phosphate (Na3PO4)"
+    },
+    {
+        "reactant": "sodium",
+        "reagent": "h2o",
+        "concentration": "n/a",
+        "temp": "room temp",
+        "main_product": "Sodium Hydroxide (NaOH) and Hydrogen gas (H2)"
+    },
+    {
+        "reactant": "potassium",
+        "reagent": "h2o",
+        "concentration": "n/a",
+        "temp": "room temp",
+        "main_product": "Potassium Hydroxide (KOH) and Hydrogen gas (H2)"
+    },
+    {
+        "reactant": "iron",
+        "reagent": "hcl",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Iron(II) Chloride (FeCl2)"
+    },
+    {
+        "reactant": "iron",
+        "reagent": "hcl",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Iron(II) Chloride (FeCl2)"
+    },
+    {
+        "reactant": "iron",
+        "reagent": "h2so4",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Iron(II) Sulfate (FeSO4)"
+    },
+    {
+        "reactant": "iron",
+        "reagent": "h2so4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Iron(III) Sulfate (Fe2(SO4)3)"
+    },
+    {
+        "reactant": "iron",
+        "reagent": "hno3",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Iron(III) Nitrate (Fe(NO3)3)"
+    },
+    {
+        "reactant": "iron",
+        "reagent": "hno3",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Iron(III) Nitrate (Fe(NO3)3)"
+    },
+    {
+        "reactant": "iron",
+        "reagent": "acetic acid",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Iron(II) Acetate (Fe(CH3COO)2)"
+    },
+    {
+        "reactant": "iron",
+        "reagent": "acetic acid",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Iron(II) Acetate (Fe(CH3COO)2)"
+    },
+    {
+        "reactant": "iron",
+        "reagent": "h3po4",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Iron(II) Phosphate (Fe3(PO4)2)"
+    },
+    {
+        "reactant": "iron",
+        "reagent": "h3po4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Iron(III) Phosphate (FePO4)"
+    },
+    {
+        "reactant": "magnesium",
+        "reagent": "hcl",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Magnesium Chloride (MgCl2)"
+    },
+    {
+        "reactant": "magnesium",
+        "reagent": "hcl",
+        "concentration": "concentrated",
+        "temp": "room temp",
+        "main_product": "Magnesium Chloride (MgCl2)"
+    },
+    {
+        "reactant": "magnesium",
+        "reagent": "h2so4",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Magnesium Sulfate (MgSO4)"
+    },
+    {
+        "reactant": "magnesium",
+        "reagent": "h2so4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Magnesium Sulfate (MgSO4)"
+    },
+    {
+        "reactant": "magnesium",
+        "reagent": "hno3",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Magnesium Nitrate (Mg(NO3)2)"
+    },
+    {
+        "reactant": "magnesium",
+        "reagent": "hno3",
+        "concentration": "concentrated",
+        "temp": "warm",
+        "main_product": "Magnesium Nitrate (Mg(NO3)2)"
+    },
+    {
+        "reactant": "magnesium",
+        "reagent": "acetic acid",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Magnesium Acetate (Mg(CH3COO)2)"
+    },
+    {
+        "reactant": "magnesium",
+        "reagent": "acetic acid",
+        "concentration": "concentrated",
+        "temp": "warm",
+        "main_product": "Magnesium Acetate (Mg(CH3COO)2)"
+    },
+    {
+        "reactant": "magnesium",
+        "reagent": "h3po4",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Magnesium Phosphate (Mg3(PO4)2)"
+    },
+    {
+        "reactant": "magnesium",
+        "reagent": "h3po4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Magnesium Phosphate (Mg3(PO4)2)"
+    },
+    {
+        "reactant": "calcium",
+        "reagent": "hcl",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Calcium Chloride (CaCl2)"
+    },
+    {
+        "reactant": "calcium",
+        "reagent": "hcl",
+        "concentration": "concentrated",
+        "temp": "room temp",
+        "main_product": "Calcium Chloride (CaCl2)"
+    },
+    {
+        "reactant": "calcium",
+        "reagent": "h2so4",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Calcium Sulfate (CaSO4)"
+    },
+    {
+        "reactant": "calcium",
+        "reagent": "h2so4",
+        "concentration": "concentrated",
+        "temp": "warm",
+        "main_product": "Calcium Sulfate (CaSO4)"
+    },
+    {
+        "reactant": "calcium",
+        "reagent": "hno3",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Calcium Nitrate (Ca(NO3)2)"
+    },
+    {
+        "reactant": "calcium",
+        "reagent": "hno3",
+        "concentration": "concentrated",
+        "temp": "room temp",
+        "main_product": "Calcium Nitrate (Ca(NO3)2)"
+    },
+    {
+        "reactant": "calcium",
+        "reagent": "acetic acid",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Calcium Acetate (Ca(CH3COO)2)"
+    },
+    {
+        "reactant": "calcium",
+        "reagent": "acetic acid",
+        "concentration": "concentrated",
+        "temp": "room temp",
+        "main_product": "Calcium Acetate (Ca(CH3COO)2)"
+    },
+    {
+        "reactant": "calcium",
+        "reagent": "h3po4",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Calcium Phosphate (Ca3(PO4)2)"
+    },
+    {
+        "reactant": "calcium",
+        "reagent": "h3po4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Calcium Phosphate (Ca3(PO4)2)"
+    },
+    {
+        "reactant": "aluminum",
+        "reagent": "hcl",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Aluminum Chloride (AlCl3)"
+    },
+    {
+        "reactant": "aluminum",
+        "reagent": "hcl",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Aluminum Chloride (AlCl3)"
+    },
+    {
+        "reactant": "aluminum",
+        "reagent": "h2so4",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Aluminum Sulfate (Al2(SO4)3)"
+    },
+    {
+        "reactant": "aluminum",
+        "reagent": "h2so4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Aluminum Sulfate (Al2(SO4)3)"
+    },
+    {
+        "reactant": "aluminum",
+        "reagent": "hno3",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Aluminum Nitrate (Al(NO3)3)"
+    },
+    {
+        "reactant": "aluminum",
+        "reagent": "naoh",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Sodium Aluminate (NaAlO2)"
+    },
+    {
+        "reactant": "aluminum",
+        "reagent": "naoh",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Sodium Aluminate (NaAlO2)"
+    },
+    {
+        "reactant": "aluminum",
+        "reagent": "koh",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Potassium Aluminate (KAlO2)"
+    },
+    {
+        "reactant": "aluminum",
+        "reagent": "koh",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Potassium Aluminate (KAlO2)"
+    },
+    {
+        "reactant": "aluminum",
+        "reagent": "acetic acid",
+        "concentration": "dilute",
+        "temp": "hot",
+        "main_product": "Aluminum Acetate (Al(CH3COO)3)"
+    },
+    {
+        "reactant": "zinc",
+        "reagent": "hcl",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Zinc Chloride (ZnCl2)"
+    },
+    {
+        "reactant": "zinc",
+        "reagent": "hcl",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Zinc Chloride (ZnCl2)"
+    },
+    {
+        "reactant": "zinc",
+        "reagent": "h2so4",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Zinc Sulfate (ZnSO4)"
+    },
+    {
+        "reactant": "zinc",
+        "reagent": "h2so4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Zinc Sulfate (ZnSO4)"
+    },
+    {
+        "reactant": "zinc",
+        "reagent": "hno3",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Zinc Nitrate (Zn(NO3)2)"
+    },
+    {
+        "reactant": "zinc",
+        "reagent": "hno3",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Zinc Nitrate (Zn(NO3)2)"
+    },
+    {
+        "reactant": "zinc",
+        "reagent": "naoh",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Sodium Zincate (Na2ZnO2)"
+    },
+    {
+        "reactant": "zinc",
+        "reagent": "naoh",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Sodium Zincate (Na2ZnO2)"
+    },
+    {
+        "reactant": "zinc",
+        "reagent": "koh",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Potassium Zincate (K2ZnO2)"
+    },
+    {
+        "reactant": "zinc",
+        "reagent": "koh",
+        "concentration": "concentrated",
+        "temp": "room temp",
+        "main_product": "Potassium Zincate (K2ZnO2)"
+    },
+    {
+        "reactant": "copper",
+        "reagent": "hno3",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Copper(II) Nitrate (Cu(NO3)2)"
+    },
+    {
+        "reactant": "copper",
+        "reagent": "hno3",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Copper(II) Nitrate (Cu(NO3)2)"
+    },
+    {
+        "reactant": "copper",
+        "reagent": "h2so4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Copper(II) Sulfate (CuSO4)"
+    },
+    {
+        "reactant": "copper",
+        "reagent": "h2so4",
+        "concentration": "concentrated",
+        "temp": "warm",
+        "main_product": "Copper(II) Sulfate (CuSO4)"
+    },
+    {
+        "reactant": "copper",
+        "reagent": "hno3",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Copper(II) Nitrate (Cu(NO3)2)"
+    },
+    {
+        "reactant": "copper",
+        "reagent": "hno3",
+        "concentration": "concentrated",
+        "temp": "warm",
+        "main_product": "Copper(II) Nitrate (Cu(NO3)2)"
+    },
+    {
+        "reactant": "copper",
+        "reagent": "hcl",
+        "concentration": "dilute",
+        "temp": "hot",
+        "main_product": "No Reaction"
+    },
+    {
+        "reactant": "copper",
+        "reagent": "h2so4",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "No Reaction"
+    },
+    {
+        "reactant": "copper",
+        "reagent": "acetic acid",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Copper(II) Acetate (Cu(CH3COO)2)"
+    },
+    {
+        "reactant": "copper",
+        "reagent": "h3po4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Copper(II) Phosphate (Cu3(PO4)2)"
+    },
+    {
+        "reactant": "lead",
+        "reagent": "hno3",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Lead(II) Nitrate (Pb(NO3)2)"
+    },
+    {
+        "reactant": "lead",
+        "reagent": "hno3",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Lead(II) Nitrate (Pb(NO3)2)"
+    },
+    {
+        "reactant": "lead",
+        "reagent": "hcl",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Lead(II) Chloride (PbCl2)"
+    },
+    {
+        "reactant": "lead",
+        "reagent": "h2so4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Lead(II) Sulfate (PbSO4)"
+    },
+    {
+        "reactant": "lead",
+        "reagent": "naoh",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Sodium Plumbite (Na2PbO2)"
+    },
+    {
+        "reactant": "lead",
+        "reagent": "naoh",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Sodium Plumbite (Na2PbO2)"
+    },
+    {
+        "reactant": "lead",
+        "reagent": "koh",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Potassium Plumbite (K2PbO2)"
+    },
+    {
+        "reactant": "lead",
+        "reagent": "koh",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Potassium Plumbite (K2PbO2)"
+    },
+    {
+        "reactant": "lead",
+        "reagent": "acetic acid",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Lead(II) Acetate (Pb(CH3COO)2)"
+    },
+    {
+        "reactant": "lead",
+        "reagent": "acetic acid",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Lead(II) Acetate (Pb(CH3COO)2)"
+    },
+    {
+        "reactant": "tin",
+        "reagent": "hcl",
+        "concentration": "concentrated",
+        "temp": "warm",
+        "main_product": "Tin(II) Chloride (SnCl2)"
+    },
+    {
+        "reactant": "tin",
+        "reagent": "hcl",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Tin(II) Chloride (SnCl2)"
+    },
+    {
+        "reactant": "tin",
+        "reagent": "hno3",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Tin(II) Nitrate (Sn(NO3)2)"
+    },
+    {
+        "reactant": "tin",
+        "reagent": "hno3",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Tin(IV) Oxide (SnO2)"
+    },
+    {
+        "reactant": "tin",
+        "reagent": "h2so4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Tin(IV) Sulfate (Sn(SO4)2)"
+    },
+    {
+        "reactant": "tin",
+        "reagent": "naoh",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Sodium Stannite (Na2SnO2)"
+    },
+    {
+        "reactant": "tin",
+        "reagent": "naoh",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Sodium Stannate (Na2SnO3)"
+    },
+    {
+        "reactant": "tin",
+        "reagent": "koh",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Potassium Stannite (K2SnO2)"
+    },
+    {
+        "reactant": "tin",
+        "reagent": "koh",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Potassium Stannate (K2SnO3)"
+    },
+    {
+        "reactant": "tin",
+        "reagent": "h2so4",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Tin(II) Sulfate (SnSO4)"
+    },
+    {
+        "reactant": "nickel",
+        "reagent": "hcl",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Nickel(II) Chloride (NiCl2)"
+    },
+    {
+        "reactant": "nickel",
+        "reagent": "hcl",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Nickel(II) Chloride (NiCl2)"
+    },
+    {
+        "reactant": "nickel",
+        "reagent": "h2so4",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Nickel(II) Sulfate (NiSO4)"
+    },
+    {
+        "reactant": "nickel",
+        "reagent": "h2so4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Nickel(II) Sulfate (NiSO4)"
+    },
+    {
+        "reactant": "nickel",
+        "reagent": "hno3",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Nickel(II) Nitrate (Ni(NO3)2)"
+    },
+    {
+        "reactant": "nickel",
+        "reagent": "hno3",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Nickel(II) Nitrate (Ni(NO3)2)"
+    },
+    {
+        "reactant": "nickel",
+        "reagent": "acetic acid",
+        "concentration": "dilute",
+        "temp": "hot",
+        "main_product": "Nickel(II) Acetate (Ni(CH3COO)2)"
+    },
+    {
+        "reactant": "nickel",
+        "reagent": "acetic acid",
+        "concentration": "concentrated",
+        "temp": "warm",
+        "main_product": "Nickel(II) Acetate (Ni(CH3COO)2)"
+    },
+    {
+        "reactant": "nickel",
+        "reagent": "h3po4",
+        "concentration": "dilute",
+        "temp": "hot",
+        "main_product": "Nickel(II) Phosphate (Ni3(PO4)2)"
+    },
+    {
+        "reactant": "nickel",
+        "reagent": "h3po4",
+        "concentration": "concentrated",
+        "temp": "warm",
+        "main_product": "Nickel(II) Phosphate (Ni3(PO4)2)"
+    },
+    {
+        "reactant": "barium",
+        "reagent": "hcl",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Barium Chloride (BaCl2)"
+    },
+    {
+        "reactant": "barium",
+        "reagent": "hcl",
+        "concentration": "concentrated",
+        "temp": "room temp",
+        "main_product": "Barium Chloride (BaCl2)"
+    },
+    {
+        "reactant": "barium",
+        "reagent": "hno3",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Barium Nitrate (Ba(NO3)2)"
+    },
+    {
+        "reactant": "barium",
+        "reagent": "hno3",
+        "concentration": "concentrated",
+        "temp": "room temp",
+        "main_product": "Barium Nitrate (Ba(NO3)2)"
+    },
+    {
+        "reactant": "barium",
+        "reagent": "acetic acid",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Barium Acetate (Ba(CH3COO)2)"
+    },
+    {
+        "reactant": "barium",
+        "reagent": "acetic acid",
+        "concentration": "concentrated",
+        "temp": "room temp",
+        "main_product": "Barium Acetate (Ba(CH3COO)2)"
+    },
+    {
+        "reactant": "barium",
+        "reagent": "h2so4",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Barium Sulfate (BaSO4)"
+    },
+    {
+        "reactant": "barium",
+        "reagent": "h2so4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Barium Sulfate (BaSO4)"
+    },
+    {
+        "reactant": "barium",
+        "reagent": "h3po4",
+        "concentration": "dilute",
+        "temp": "warm",
+        "main_product": "Barium Phosphate (Ba3(PO4)2)"
+    },
+    {
+        "reactant": "barium",
+        "reagent": "h3po4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Barium Phosphate (Ba3(PO4)2)"
     }
 ]
