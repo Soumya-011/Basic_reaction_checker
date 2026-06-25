@@ -1,0 +1,72 @@
+[
+    {
+        "reactant": "zinc",
+        "reagent": "hcl",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Zinc Chloride (ZnCl2)"
+    },
+    {
+        "reactant": "copper",
+        "reagent": "hno3",
+        "concentration": "concentrated",
+        "temp": "warm",
+        "main_product": "Copper(II) Nitrate (Cu(NO3)2)"
+    },
+    {
+        "reactant": "magnesium",
+        "reagent": "acetic acid",
+        "concentration": "dilute",
+        "temp": "room temp",
+        "main_product": "Magnesium Acetate (Mg(CH3COO)2)"
+    },
+    {
+        "reactant": "aluminum",
+        "reagent": "naoh",
+        "concentration": "concentrated",
+        "temp": "warm",
+        "main_product": "Sodium Aluminate (NaAlO2)"
+    },
+    {
+        "reactant": "zinc",
+        "reagent": "koh",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Potassium Zincate (K2ZnO2)"
+    },
+    {
+        "reactant": "carbon",
+        "reagent": "h2so4",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Carbon dioxide (CO2)"
+    },
+    {
+        "reactant": "sulfur",
+        "reagent": "hno3",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Sulfuric Acid (H2SO4)"
+    },
+    {
+        "reactant": "chlorine",
+        "reagent": "naoh",
+        "concentration": "dilute",
+        "temp": "cold",
+        "main_product": "Sodium Hypochlorite (NaClO)"
+    },
+    {
+        "reactant": "chlorine",
+        "reagent": "naoh",
+        "concentration": "concentrated",
+        "temp": "hot",
+        "main_product": "Sodium Chlorate (NaClO3)"
+    },
+    {
+        "reactant": "white phosphorus",
+        "reagent": "naoh",
+        "concentration": "concentrated",
+        "temp": "warm",
+        "main_product": "Sodium Hypophosphite (NaH2PO2)"
+    }
+]
